@@ -1,0 +1,228 @@
+# Copyright (C) 2017 Webempresa
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Adaptativo 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/adaptativo\n"
+"POT-Creation-Date: 2017-04-09 15:07-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-04-09 15:19-0500\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya, lo sentimos! No hemos logrado encontrar la página."
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Parece que no pudimos dar con el contenido en esta localización. Si lo "
+"desea, contáctenos o realice una búsqueda en el site."
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Intente buscar en el archivo por mes. %1$s"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr "Comentarios más viejos"
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr "Nuevos comentarios"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: footer.php:42
+msgid "Proudly powered by "
+msgstr "Desarrollador por "
+
+#: footer.php:44
+msgid "Theme Adaptativo designed by"
+msgstr "Theme Adaptativo diseñado por"
+
+#: functions.php:47
+msgid "Main menu"
+msgstr "Menú Principal"
+
+#: functions.php:48
+msgid "Menu footer"
+msgstr "Menú Pie"
+
+#: functions.php:101
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:103 functions.php:113 functions.php:123 functions.php:133
+#: functions.php:144 functions.php:154 functions.php:164
+msgid "Add widgets here."
+msgstr "Agregar Widgets aquí."
+
+#: functions.php:111
+msgid "Home header bottom"
+msgstr "Inicio - pie cabecera"
+
+#: functions.php:121
+msgid "Home content top"
+msgstr "Inicio - contenido superior"
+
+#: functions.php:131
+msgid "Home content bottom"
+msgstr "Inicio - contenido inferior"
+
+#: functions.php:142
+msgid "Header bottom"
+msgstr "Cabecera inferior"
+
+#: functions.php:152
+msgid "Content top"
+msgstr "Contenido superior"
+
+#: functions.php:162
+msgid "Content bottom"
+msgstr "Contenido inferior"
+
+#: functions.php:243
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#. translators: 1: date, 2: time
+#: functions.php:249
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: functions.php:249
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: functions.php:256
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario esta a la espera de moderación."
+
+#: functions.php:279
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Saltar a contenido"
+
+#: header.php:56
+msgid "Menu"
+msgstr "Menú"
+
+#: home.php:40 index.php:45
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: home.php:41 index.php:46
+msgid "Next page"
+msgstr "Página siguiente"
+
+#: home.php:42 index.php:47
+msgid "Page"
+msgstr "Página"
+
+#: inc/template-tags.php:24 inc/template-tags.php:67
+msgctxt "post author"
+msgid "by %s"
+msgstr "creado por  %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:76 inc/template-tags.php:103
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:114 template-parts/content-page.php:34
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: searchform.php:12 searchform.php:15
+msgid "Search"
+msgstr "Buscar"
+
+#: template-parts/content-home.php:51 template-parts/content-page.php:22
+#: template-parts/content.php:44
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se encontró"
+
+#: template-parts/content-none.php:21
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Mil disculpas, pero no encontramos resultados para estos términos de "
+"búsqueda. Por favor, inténtelo de nuevo con distintas palabras clave."
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar los contenidos solicitados. Quizás una "
+"búsqueda pueda ayudar."
+
+#. Theme Name of the plugin/theme
+msgid "Adaptativo"
+msgstr "Adaptativo"
+
+#. Theme URI of the plugin/theme
+msgid "http://underscores.me/"
+msgstr "http://underscores.me/"
+
+#. Description of the plugin/theme
+msgid "Blog WordPress Theme"
+msgstr "Theme Blog WordPress"
+
+#. Author of the plugin/theme
+msgid "Webempresa"
+msgstr "Webempresa"
+
+#. Author URI of the plugin/theme
+msgid "https://webempresa.com"
+msgstr "https://webempresa.com"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Todo el ancho"

@@ -1,0 +1,20 @@
+/*
+Theme Name: Adaptativo Child Theme
+Theme URI: https://www.webempresa.com/wordpress/demo-tema-adaptativo.html
+Description: Adaptativo Child Theme
+Author: Ana
+Author URI: https://www.webempresa.com/wordpress/demo-tema-adaptativo.html
+Template: Adaptativo
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Tags: one-column, right-sidebar, custom-background, custom-header, custom-menu, featured-images, full-width-template, microformats, sticky-post, theme-options, threaded-comments, translation-ready, blog
+Text Domain: adaptativo-child
+*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+html{
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	font-size: 30px;
+}

@@ -1,0 +1,218 @@
+# Copyright (C) 2017 Webempresa
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Adaptativo 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/adaptativo\n"
+"POT-Creation-Date: 2017-04-09 20:05:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:42
+msgid "Proudly powered by "
+msgstr ""
+
+#: footer.php:44
+msgid "Theme Adaptativo designed by"
+msgstr ""
+
+#: functions.php:47
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:48
+msgid "Menu footer"
+msgstr ""
+
+#: functions.php:101
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:103 functions.php:113 functions.php:123 functions.php:133
+#: functions.php:144 functions.php:154 functions.php:164
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:111
+msgid "Home header bottom"
+msgstr ""
+
+#: functions.php:121
+msgid "Home content top"
+msgstr ""
+
+#: functions.php:131
+msgid "Home content bottom"
+msgstr ""
+
+#: functions.php:142
+msgid "Header bottom"
+msgstr ""
+
+#: functions.php:152
+msgid "Content top"
+msgstr ""
+
+#: functions.php:162
+msgid "Content bottom"
+msgstr ""
+
+#: functions.php:243
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:249
+msgid "%1$s - %2$s"
+msgstr ""
+
+#: functions.php:249
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:256
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:279
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:56
+msgid "Menu"
+msgstr ""
+
+#: home.php:40 index.php:45
+msgid "Previous page"
+msgstr ""
+
+#: home.php:41 index.php:46
+msgid "Next page"
+msgstr ""
+
+#: home.php:42 index.php:47
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:24 inc/template-tags.php:67
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:76 inc/template-tags.php:103
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:114 template-parts/content-page.php:34
+msgid "Edit %s"
+msgstr ""
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:12 searchform.php:15
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-home.php:51 template-parts/content-page.php:22
+#: template-parts/content.php:44
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Adaptativo"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Blog WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webempresa"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://webempresa.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
