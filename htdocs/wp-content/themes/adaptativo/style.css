@@ -1766,9 +1766,12 @@ html{
   
 }
 h1{
-	font-size: 30px;
+	font-size: 30px !important;
 }
 body {
   font-family: 'Roboto', sans-serif !important; 
   
+}
+#post-1 > div > header > a > h2{
+  color: red
 }
